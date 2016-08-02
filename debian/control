@@ -1,11 +1,11 @@
-Source: maui-wallpapers-18
+Source: maui-wallpapers-1
 Section: admin
 Priority: optional
 Maintainer: Leszek Lesner <leszek@zevenos.com>
 Build-Depends: debhelper (>= 9)
 Standards-Version: 3.7.2
 
-Package: maui-wallpapers-18
+Package: maui-wallpapers-1
 Architecture: all
 Replaces: netrunner-artwork (<< 1.1.49)
 Breaks: netrunner-artwork (<< 1.1.49)
